@@ -1,0 +1,5 @@
+0 plastica
+1 Carta
+2 vetro
+3 alluminio
+4 Organico
